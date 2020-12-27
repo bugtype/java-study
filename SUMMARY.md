@@ -10,3 +10,7 @@
 
 * [JVM 셋팅](undefined/jvm.md)
 
+## Garbage Collector <a id="gc"></a>
+
+* [G1 GC](gc/g1-gc.md)
+
