@@ -12,5 +12,8 @@
 
 ## Garbage Collector <a id="gc"></a>
 
-* [G1 GC](gc/g1-gc.md)
+* [GC\(Gabage collector\)](gc/gc-gabage-collector/README.md)
+  * [Concurrent Mark Sweep\(CMS\) Collector](gc/gc-gabage-collector/concurrent-mark-sweep-cms-collector.md)
+  * [Serial GC](gc/gc-gabage-collector/serial-gc.md)
+  * [G1 GC](gc/gc-gabage-collector/g1-gc.md)
 
