@@ -2,6 +2,10 @@
 
 
 
+![https://d2.naver.com/helloworld/37111](../.gitbook/assets/screen-shot-2020-12-27-at-8.41.17-pm.png)
+
+
+
 객체의 크기가 Servivor 영역보다 클 경우, 바로 Old 영역으로 간다. 그러므로, 객체의 크기가 작을수록 좋다.
 
 
