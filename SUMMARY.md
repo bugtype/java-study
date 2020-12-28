@@ -23,3 +23,7 @@
 * [String intern](string-1/string-intern.md)
 * [Untitled](string-1/untitled.md)
 
+## Doyouknow\_haha
+
+* [IntegerCache](doyouknow_haha/integercache.md)
+
