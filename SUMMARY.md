@@ -21,7 +21,7 @@
 ## String <a id="string-1"></a>
 
 * [String intern](string-1/string-intern.md)
-* [Untitled](string-1/untitled.md)
+* [hashcode & equals](string-1/untitled.md)
 
 ## Doyouknow\_haha
 
