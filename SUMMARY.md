@@ -2,9 +2,10 @@
 
 * [Java 버젼 차이](README.md)
 
-## Java\_11
+## Java\_version
 
-* [Java 11](java_11/java-11.md)
+* [Java 8](java_version/java-8.md)
+* [Java 11](java_version/java-11.md)
 
 ## 최적화
 
