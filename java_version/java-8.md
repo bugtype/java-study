@@ -2,7 +2,7 @@
 
 
 
-I.  HashTable
+I.  HashMap
 
 * 8번정도 충돌 나면, LinkedList를 Tree\(red-black\) 형태로 바꾼다.
 * 6개가 되면 다시 LinkedList로 변경한다.
