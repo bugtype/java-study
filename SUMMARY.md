@@ -27,3 +27,7 @@
 
 * [IntegerCache](doyouknow_haha/integercache.md)
 
+---
+
+* [Gabage Collector](gabage-collector.md)
+
