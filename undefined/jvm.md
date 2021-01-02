@@ -18,3 +18,5 @@ GC가 어떤 것이든 Young Generation 영역의 Minor GC에서 **STW\(Stop the
 
 
 
+* threshhold 을 수정 함으로써, Old 영역에 가는 비율을 줄일 수 있다.
+

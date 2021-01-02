@@ -13,6 +13,7 @@
 
 ## Garbage Collector <a id="gc"></a>
 
+* [Gabage Collector](gc/gabage-collector.md)
 * [GC\(Gabage collector\)](gc/gc-gabage-collector/README.md)
   * [Concurrent Mark Sweep\(CMS\) Collector](gc/gc-gabage-collector/concurrent-mark-sweep-cms-collector.md)
   * [Serial GC](gc/gc-gabage-collector/serial-gc.md)
@@ -26,8 +27,4 @@
 ## Doyouknow\_haha
 
 * [IntegerCache](doyouknow_haha/integercache.md)
-
----
-
-* [Gabage Collector](gabage-collector.md)
 
