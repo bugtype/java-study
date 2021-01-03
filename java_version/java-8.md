@@ -42,6 +42,36 @@ interface Hello {
 Hello.world();
 ```
 
+
+
+IV. Annotation
+
+* @Repeatable 추가
+
+```java
+// case 1
+@GreenColor
+@BlueColor
+@RedColor
+public class RGBColor { ... }
+
+// case 2
+@Color(colors={"green", "blue", "red"}
+public class RGBColor { ... }
+
+// 1.8
+@Color("green")
+@Color("blue")
+@Color("red")
+public class RGBColor { ... }
+
+// 참고: https://jistol.github.io/java/2018/08/31/annotation-repeatable/
+```
+
+* @FunctionalInterface 추가
+  * 람다와 연관되어 있다.
+  * [https://jeong-pro.tistory.com/208](https://jeong-pro.tistory.com/208)
+
 IV. 스트림 API
 
 * iterator 반복자를 매번 코드를 작성하는 불편함 제거
