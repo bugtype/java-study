@@ -14,6 +14,8 @@
   * stack에서 변수 스캔
   * 1번할 때마다, 객체의 age 증가
 
+[https://d2.naver.com/helloworld/1329](https://d2.naver.com/helloworld/1329)
+
 
 
 
