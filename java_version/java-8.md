@@ -46,7 +46,7 @@ Hello.world();
 
 IV. Annotation
 
-* @Repeatable 추가
+* @Repeatable 추가 \( 중복해서 쓸 수 있다. \)
 
 ```java
 // case 1
@@ -103,6 +103,6 @@ JVM
 
 
 
-### II. Class unloading with concurrent mark
+### II. Permanent Generation\(영속 세대\) 제거
 
 * 
